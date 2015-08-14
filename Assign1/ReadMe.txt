@@ -1,0 +1,1 @@
+This is my first java program.  It's a simple program to simulate a small store inventory.

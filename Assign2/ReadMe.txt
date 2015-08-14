@@ -1,0 +1,1 @@
+This is an extension of Assignment 2 (a small store inventory) that uses inheritance and polymorphism.
